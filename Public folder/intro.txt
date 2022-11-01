@@ -1,0 +1,3 @@
+NOTE: Html, CSS and Javascript code is in src folder
+In this assignment I am using three files index.html,index.css and index.js for codes of 
+html,css, and javascript respectively. All these codes are present in src folder.
